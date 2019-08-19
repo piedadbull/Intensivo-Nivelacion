@@ -4,7 +4,6 @@ Created on Fri Aug 16 13:49:55 2019
 
 @author: piedi
 """
-
 millas1=3
 millas2=10
 millas3=11
