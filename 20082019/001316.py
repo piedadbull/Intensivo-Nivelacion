@@ -4,7 +4,6 @@ Created on Fri Aug 16 12:28:40 2019
 
 @author: piedi
 """
-
 nombre1='YK '
 altura_m1=2
 peso_kg1=90
