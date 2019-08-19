@@ -4,6 +4,7 @@ Created on Fri Aug 16 11:38:14 2019
 
 @author: piedi
 """
+
 #definimos una funcion con parametro, en este caso x. Le pedimos que nos devuelva 2*x
 def funcion2(x):
     return 2*x
