@@ -9,7 +9,7 @@ import numpy as np
 from skimage import io
 import matplotlib.pyplot as plt
 
-#lee una foto
+#lee una foto.png o jpg pero habria que cambiarle el nombre a foto.jpg
 foto=io.imread('foto.png')
 
 #type(foto)
